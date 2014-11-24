@@ -1,0 +1,11 @@
+{
+  "name": "docker-node-timer",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "restify": "*",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "mongodb":"*"
+  }
+}
